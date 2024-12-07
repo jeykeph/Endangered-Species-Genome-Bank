@@ -5,3 +5,5 @@ I
 contracts/genome-nft.clar,7/9/794fdeae32f045d690ce2e4512054770d9c12372
 N
 contracts/compute-network.clar,c/9/c9eef89fa41d7bd2eb3d422ff0a9df9fad84ac9b
+P
+ contracts/wildlife-tracking.clar,3/2/3235ab33bd4ad607e7b4238915ce8fb785f9b8a9
