@@ -5,6 +5,11 @@ authors = []
 telemetry = true
 cache_dir = './.cache'
 requirements = []
+[contracts.compute-network]
+path = 'contracts/compute-network.clar'
+clarity_version = 2
+epoch = 2.5
+
 [contracts.genome-nft]
 path = 'contracts/genome-nft.clar'
 clarity_version = 2
